@@ -1,0 +1,79 @@
+      /*body{
+        background:url("elephant.jpg") no-repeat center top #000;
+      }*/
+
+      .large{
+        font-size: 30px;
+        background:blue;
+      }
+
+      p strong{
+
+      }
+
+      h1 a{
+        color:#fff;
+      }
+
+      p{
+        color:pink;
+        background-color:green;
+      }
+
+
+      .blue-background{
+        background-color:blue;
+      }
+
+      .red-background{
+        background:red;
+      }
+
+      body{
+        padding:0;
+        margin:0;
+        background:blue;
+      }
+
+      .wrapper{
+        width:960px;
+        margin:auto;
+      }
+
+      #header{
+        background:red;
+        border-radius: 10px 0 10px 0;
+      }
+
+      #header h1{
+        margin:0;
+      }
+
+      #header a:link{
+        font-size:20px;
+      }
+
+      #header a:visited{
+        color:#777;
+      }
+
+      #header a:hover{
+        text-decoration: none;
+      }
+
+      #main-content{
+        border-top:10px dotted black;
+      }
+
+      #main-content p{
+        margin:0;
+        padding:20px 0;
+      }
+
+      .highlight{
+        color:Yellow;
+      }
+
+      #footer{
+        font-size:10px;
+      }
